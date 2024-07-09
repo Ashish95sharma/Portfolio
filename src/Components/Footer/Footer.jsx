@@ -14,8 +14,6 @@ const Footer = () => {
         <hr/>
         <div className='footer-bottom'>
             <p className='footer-bottom-left'> 2024, Ashish kumar Sharma</p>
-            
-          
         </div>
     </div>
   )

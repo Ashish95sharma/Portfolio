@@ -8,7 +8,7 @@ const Services_Data = [
     {
         s_no: "02",
         s_name: "Calculator",
-        s_desc: "Created a Calculator using HTML, CSS and JavaScript (For Problem Solving)",
+        s_desc: "Created a Calculator using tools i.e. HTML, CSS and JavaScript (For Problem Solving)",
         s_link: "https://ashish95sharma.github.io/Calculator/",
     },
     {
